@@ -25,9 +25,9 @@ To build and run the quiz:
 go build . && ./go-quiz -csv=problem.csv -shuffle=true -limit=30
 ```
 
--csv flag is the csv to load.
--shuffle randomize the quiz order every time it is executed.
--limit is the duration of quiz.
+- csv flag is the csv to load.
+- shuffle randomize the quiz order every time it is executed.
+- limit is the duration of quiz.
 
 ## main.go
 
